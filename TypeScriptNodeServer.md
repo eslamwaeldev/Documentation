@@ -1,6 +1,6 @@
 1. Run `yarn init -y`
 2. Create src directory `mkdir src`
-3. `cd src`
+3. Run `cd src`
 4. create an index.ts file `touch index.ts`
 5. Run `yarn add typescript @types/node --save-dev`
 6. Run `yarn tsc --init --rootDir src --outDir build \--esModuleInterop --resolveJsonModule --lib es6 \--module commonjs --allowJs true --noImplicitAny true`
