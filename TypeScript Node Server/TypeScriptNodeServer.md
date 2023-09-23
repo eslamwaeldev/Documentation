@@ -9,4 +9,4 @@
 9. Change the package.json main to `src/index.ts` & add [scripts](scripts.json) in package.json `
 10. Add server [boilerplate](boilerplate.ts) to index.ts
 11. Create a gitignore file `touch .gitignore`
-12. add [Node geetignore content from here](https://github.com/github/gitignore/blob/main/Node.gitignore)
+12. add [Node .getignore content from here](https://github.com/github/gitignore/blob/main/Node.gitignore)
