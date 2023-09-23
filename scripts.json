@@ -1,0 +1,7 @@
+{
+  "scripts": {
+    "dev": "nodemon --watch 'src/**/*.ts' --esm",
+    "ts": "tsc",
+    "start": "node dist/index.js"
+  }
+}
