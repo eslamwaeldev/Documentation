@@ -1,0 +1,5 @@
+{
+  "dev": "nodemon --watch 'src/*.ts src/**/*.ts' ",
+  "build": "yarn tsc",
+  "start": "node dist/index.js"
+}
